@@ -13,7 +13,7 @@ Nesta implementação:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/bubble-sort-typescript.git
+   git clone https://github.com/webedmilson/bubble-sort-typescript.git
    ```
 
 2. Navegue até o diretório do projeto:
@@ -73,4 +73,4 @@ Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usá-
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario).
+Feito com ❤️ por [Edmilson Rodrigues Julio](https://github.com/webedmilson).
